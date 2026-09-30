@@ -1,0 +1,4 @@
+horizon,method,fidelity,plaus_feat@10,plaus_sign@10,trust_score
+90,TreeSHAP,0.809,0.4,1.0,0.905
+90,KernelSHAP,0.754,0.5,1.0,0.877
+90,LIME,0.516,0.5,0.2,0.358

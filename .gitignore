@@ -1,0 +1,12 @@
+# MIMIC-IV derived data and artifacts (PhysioNet DUA)
+data/
+*.csv.gz
+*.pkl
+*.npy
+*.keras
+*.h5
+notebook_summary.txt
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.env

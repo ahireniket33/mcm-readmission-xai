@@ -1,0 +1,4 @@
+horizon,method,faithfulness_corr,vs_random,sparseness
+90,TreeSHAP,0.809,0.807,0.654
+90,KernelSHAP,0.754,0.752,0.859
+90,LIME,0.516,0.514,0.537

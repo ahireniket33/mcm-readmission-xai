@@ -1,0 +1,4 @@
+horizon,base_rate,test_auroc,positive_control
+30,0.18,0.718,0.79
+60,0.248,0.734,0.787
+90,0.289,0.743,0.792

@@ -1,0 +1,4 @@
+window,cv_auroc,cv_auroc_std,threshold,accuracy,precision,recall,f1,test_auroc
+within 30d,0.678,0.002,0.52,0.739,0.222,0.466,0.301,0.682
+within 60d,0.689,0.001,0.5,0.685,0.266,0.568,0.362,0.694
+within 90d,0.692,0.004,0.5,0.679,0.297,0.578,0.393,0.699
